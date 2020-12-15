@@ -1,3 +1,3 @@
 # Spark-Tasks
 
-Tasks done during spark training
+All tasks done during spark training
